@@ -5,9 +5,11 @@ import "./index.css";
 // import Footer from "./components/Footer";
 import Home from "./pages/Home";
 
+
+
 ReactDOM.render(
   <React.StrictMode>
-    <Home />
+    <Home/>
   </React.StrictMode>,
   document.getElementById("root")
 );

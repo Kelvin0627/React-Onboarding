@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div>
         <div className="flex justify-around p-3 bg-[#312783] ">
-            <p className="flex text-white">We are now hosting events with Zoom Webinars!<p className="pl-3 font-bold underline">Find out more</p></p>
+            <p className="flex text-white">We are now hosting events with Zoom Webinars!<p className="pl-3 pr-2 font-bold underline md:pr-0" >Find out more</p></p>
             <FaTimes className='mt-1 text-white'/>
         </div>
         <div className='pt-10 text-center'>

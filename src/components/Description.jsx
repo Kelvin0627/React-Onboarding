@@ -4,7 +4,7 @@ import reading from '../assets/reading.avif'
 
 const Description = () => {
   return (
-    <div className='max-w-screen-lg pt-[80px] mx-auto font-semibold'>
+    <div className='max-w-screen-lg pt-[80px] mx-auto font-semibold p-5'>
         <NavLink to='/'>
             <div className='flex pb-3 text-xl font-bold'>
                 <AiOutlineLeft className='mt-1'/>
